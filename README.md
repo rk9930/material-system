@@ -1,5 +1,4 @@
-`step 1 : git clone `\
-`step 2 : setup database:`\ 
-`   import hrd_database;`\
-`step 3 : copy .env.example file and name as .env`\
-`step 4 : run command : php artisan serve`
+`step 1: git clone : `\
+`step2 : import hrd_database`\
+`step3: copy .env.example and name it as .env`\
+`step4 : run command php artisan serve to start project `\
